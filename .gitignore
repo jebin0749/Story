@@ -1,6 +1,5 @@
 ##project
 DS_Store
+#ignore all 3.txt files
+3.txt
 
-*.log
-
-jebn.log
